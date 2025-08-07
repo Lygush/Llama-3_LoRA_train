@@ -1,0 +1,14 @@
+bitsandbytes==0.46.1
+datasets==3.6.0
+numpy==2.3.2
+packaging==25.0
+pandas==2.3.1
+rouge==1.0.1
+torch==2.8.0+cu128
+tqdm==4.67.1
+transformers==4.55.0
+trl==0.21.0
+unsloth==2025.8.2
+unsloth_zoo==2025.8.1
+vllm==0.10.0
+wandb==0.21.0
