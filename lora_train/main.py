@@ -1,5 +1,5 @@
 # === НАСТРОЙКИ ===
-MODEL_PATH = ""
+MODEL_PATH = "meta-llama/Llama-3.1-8B-Instruct"
 DATASET_PATH = "train_dataset.jsonl"
 PERMANENT_OUTPUT_DIR = "lora_out"
 READY_LORA_DIR = "ready_lora"
